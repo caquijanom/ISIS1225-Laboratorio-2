@@ -38,10 +38,10 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
-1. Maria Gabriela Yunda Camargo, m.yunda@uniandes.edu.co, Rama 1.
-1. Carlos Alberto Quijano Mier, c.quijanom@uniandes.edu.co, Rama 2.
-1. Aslhey Caceres Zabala, a.caceresz@uniandes.edu.co, Rama 3. 
-
+1. Maria Gabriela Yunda Camargo, m.yunda@uniandes.edu.co, Est1.
+1. Carlos Alberto Quijano Mier, c.quijanom@uniandes.edu.co, Est2.
+1. Aslhey Caceres Zabala, a.caceresz@uniandes.edu.co, Est3. 
+    
 [Volver al inicio](#laboratorio-2)
 
 <!-- ABOUT THE PROJECT -->
